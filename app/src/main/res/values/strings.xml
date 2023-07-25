@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">realtime object detect</string>
+    <string name="image">image</string>
+</resources>
